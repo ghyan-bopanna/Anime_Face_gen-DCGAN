@@ -272,8 +272,10 @@ NUM_EPOCHS = 50               # Reduce epochs
 The training generates:
 
 - **Periodic Samples**: `gan_output/samples/epoch_N.png` - 64 generated faces
+- ![Generated-image](generated_samples.png)
 - **Final Samples**: `gan_output/final_samples.png` - Best quality output
 - **Loss Plots**: `gan_output/training_losses.png` - Training dynamics
+  ![Training_loss](Training Loss.png)
 
 ### Quality Metrics
 
